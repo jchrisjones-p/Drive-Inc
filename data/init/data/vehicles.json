@@ -1,5 +1,4 @@
-{
-  "vehicles" : 
+
   [
     {
       "id": "tesla_1001",
@@ -56,4 +55,3 @@
       "minimumMinutesBetweenBookings": 15
     }
   ]
-}
