@@ -1,4 +1,5 @@
 DROP TABLE IF EXISTS vehicles;
+DROP TABLE IF EXISTS reservations;
 
 CREATE TABLE vehicles (
     id VARCHAR(36) PRIMARY KEY,
